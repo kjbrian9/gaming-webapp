@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/gaming-webapp/static/css/main.43125e2c.css",
+    "main.js": "/gaming-webapp/static/js/main.0e768a79.js",
+    "static/js/787.de6bfad7.chunk.js": "/gaming-webapp/static/js/787.de6bfad7.chunk.js",
+    "static/media/Video1.mp4": "/gaming-webapp/static/media/Video1.2f169cf4923ec85aeb9f.mp4",
+    "static/media/Video4.mp4": "/gaming-webapp/static/media/Video4.c80cca333cb9c37503b1.mp4",
+    "static/media/MainPageImage1.png": "/gaming-webapp/static/media/MainPageImage1.f7838bd107883afde269.png",
+    "static/media/MainPageVideo.mp4": "/gaming-webapp/static/media/MainPageVideo.7759b72d813ef8e98553.mp4",
+    "static/media/Video2.mp4": "/gaming-webapp/static/media/Video2.2bb1ecebc881156609f3.mp4",
+    "static/media/Video3.mp4": "/gaming-webapp/static/media/Video3.7858bd3effaa1de5112c.mp4",
+    "static/media/Video5.mp4": "/gaming-webapp/static/media/Video5.d36d68f50284813f2c12.mp4",
+    "static/media/about-us-page-video.mp4": "/gaming-webapp/static/media/about-us-page-video.db3776763f3e0a0cdedd.mp4",
+    "static/media/PcStorePageVideo.mp4": "/gaming-webapp/static/media/PcStorePageVideo.8add8978f489eb77bfec.mp4",
+    "static/media/KeyboardPageTopProduct.png": "/gaming-webapp/static/media/KeyboardPageTopProduct.11ba8074ee82beb92bae.png",
+    "static/media/pc-page-product-image1.png": "/gaming-webapp/static/media/pc-page-product-image1.9e5e2e80a94e3db43bb1.png",
+    "static/media/KeyboardImage1.png": "/gaming-webapp/static/media/KeyboardImage1.2aac1297bf0210a9338b.png",
+    "static/media/aboutUsCommunityImage.png": "/gaming-webapp/static/media/aboutUsCommunityImage.d95eb5d4c2b2fc39726f.png",
+    "static/media/AboutUsMainImage.png": "/gaming-webapp/static/media/AboutUsMainImage.d3300546cab7df4671b3.png",
+    "static/media/MainpageImageTwo.png": "/gaming-webapp/static/media/MainpageImageTwo.1dd4bd23f98f63a7dd41.png",
+    "static/media/pc-page-product-image2.png": "/gaming-webapp/static/media/pc-page-product-image2.786a6d13878884fef2ec.png",
+    "static/media/NewProductImage.png": "/gaming-webapp/static/media/NewProductImage.9e9e8bfe52220fbc52d1.png",
+    "static/media/MainpageImageThree.png": "/gaming-webapp/static/media/MainpageImageThree.8632cd9ef097a77171f7.png",
+    "static/media/KeyboardPageImage1.png": "/gaming-webapp/static/media/KeyboardPageImage1.4cf544ec7d51c2f2fb44.png",
+    "static/media/SupportPageImage3.jpg": "/gaming-webapp/static/media/SupportPageImage3.db9facb73a76f4c7a27a.jpg",
+    "static/media/forum-webpage-logo.png": "/gaming-webapp/static/media/forum-webpage-logo.e567c20587e75e003192.png",
+    "static/media/CartLogo.svg": "/gaming-webapp/static/media/CartLogo.de44421d15ffd7e328c9e787dda695e5.svg",
+    "index.html": "/gaming-webapp/index.html",
+    "static/media/trashIcon.svg": "/gaming-webapp/static/media/trashIcon.2e36b701c0e50ac5f642e2f1857ead28.svg",
+    "static/media/HamburgerMenu.svg": "/gaming-webapp/static/media/HamburgerMenu.647a762cd0def5aefd66a2309218f84e.svg",
+    "static/media/Checkmark.svg": "/gaming-webapp/static/media/Checkmark.536b0e57f3bff5f5e3acf463cda3aa97.svg",
+    "main.43125e2c.css.map": "/gaming-webapp/static/css/main.43125e2c.css.map",
+    "main.0e768a79.js.map": "/gaming-webapp/static/js/main.0e768a79.js.map",
+    "787.de6bfad7.chunk.js.map": "/gaming-webapp/static/js/787.de6bfad7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43125e2c.css",
+    "static/js/main.0e768a79.js"
+  ]
+}
