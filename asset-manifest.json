@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gaming-webapp/static/css/main.43125e2c.css",
-    "main.js": "/gaming-webapp/static/js/main.3e2b48c1.js",
+    "main.js": "/gaming-webapp/static/js/main.ee693583.js",
     "static/js/787.de6bfad7.chunk.js": "/gaming-webapp/static/js/787.de6bfad7.chunk.js",
     "static/media/Video1.mp4": "/gaming-webapp/static/media/Video1.2f169cf4923ec85aeb9f.mp4",
     "static/media/Video4.mp4": "/gaming-webapp/static/media/Video4.c80cca333cb9c37503b1.mp4",
@@ -30,11 +30,11 @@
     "static/media/HamburgerMenu.svg": "/gaming-webapp/static/media/HamburgerMenu.647a762cd0def5aefd66a2309218f84e.svg",
     "static/media/Checkmark.svg": "/gaming-webapp/static/media/Checkmark.536b0e57f3bff5f5e3acf463cda3aa97.svg",
     "main.43125e2c.css.map": "/gaming-webapp/static/css/main.43125e2c.css.map",
-    "main.3e2b48c1.js.map": "/gaming-webapp/static/js/main.3e2b48c1.js.map",
+    "main.ee693583.js.map": "/gaming-webapp/static/js/main.ee693583.js.map",
     "787.de6bfad7.chunk.js.map": "/gaming-webapp/static/js/787.de6bfad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43125e2c.css",
-    "static/js/main.3e2b48c1.js"
+    "static/js/main.ee693583.js"
   ]
 }
