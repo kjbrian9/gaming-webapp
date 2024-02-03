@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import "./Styles.css/Global.css";
 import Header from "./Components/Header";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import MainPage from "./Components/MainPage";
 import WhatsNewPage from "./Components/AboutUsPage";
 import SupportPage from "./Components/SupportPage";
@@ -33,7 +33,7 @@ function App() {
   return (
     <>
       <CartContext.Provider value={value}>
-        <BrowserRouter>
+        <HashRouter>
           <ScrollTop />
           {getScreenWidth > 740 ? <Header></Header> : <MobileHeader></MobileHeader>}
           <Routes>
@@ -47,7 +47,7 @@ function App() {
             <Route path="/issueSentPage" element={<IssueSentPage />}></Route>
             <Route path="/aboutUsPage" element={<AboutUsPage />}></Route>
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </CartContext.Provider>
     </>
   );
