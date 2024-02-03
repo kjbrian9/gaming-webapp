@@ -13,7 +13,7 @@ function Header() {
         <ul className="header">
           <li>
             <div className="header-logo-div">
-              <Link to="/" className="page-tab" style={{ textDecoration: "none" }}>
+              <Link to="/gaming-webapp" className="page-tab" style={{ textDecoration: "none" }}>
                 {useLocation().pathname === "/" ? <></> : <img src={Logo} className="header-logo"></img>}
               </Link>
             </div>
