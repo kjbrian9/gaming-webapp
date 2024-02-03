@@ -38,6 +38,7 @@ function App() {
           {getScreenWidth > 740 ? <Header></Header> : <MobileHeader></MobileHeader>}
           <Routes>
             <Route path="/" element={<MainPage />}></Route>
+            <Route path="/gaming-webapp" element={<MainPage />}></Route>
             <Route path="/PcPage" element={<PcPage2 />}></Route>
             <Route path="/whatsNewPage" element={<WhatsNewPage />}></Route>
             <Route path="/keyboardPage" element={<KeyboardPage />}></Route>
