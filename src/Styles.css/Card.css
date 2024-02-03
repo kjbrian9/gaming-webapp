@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(8, 30, 39, 0.8);
+  height: 40vh;
+  width: 25vw;
+}
+.card-div {
+  position: absolute;
+  top: 60vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

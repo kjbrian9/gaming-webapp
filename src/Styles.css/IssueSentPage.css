@@ -1,0 +1,28 @@
+.issue-sent-page-content {
+  min-height: 100vh;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.issue-sent-page-div {
+  margin-top: 25vh;
+  margin-left: 15vw;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+}
+
+.issue-sent-page-title {
+  font-size: 7rem;
+  margin: 0px;
+}
+
+.issue-sent-page-text {
+  font-size: 2rem;
+  margin-left: 5vw;
+}
+
+.Checkmark-div {
+  margin-left: 3vw;
+}

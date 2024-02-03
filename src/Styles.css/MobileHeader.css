@@ -1,0 +1,59 @@
+.header-logo {
+  width: 30px;
+  height: 24px;
+}
+
+.header__logo-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo-link {
+  align-items: center;
+}
+.mobile-header {
+  height: fit-content;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  background-color: rgb(1, 6, 8, 0.6);
+  z-index: 100;
+  opacity: 1;
+  backdrop-filter: blur(10px);
+}
+
+.header__right-side-div {
+  display: flex;
+}
+.cart-item-quantity {
+  margin: 0px;
+  margin-left: 0.3vw;
+}
+
+.cart-logo {
+  width: 20px;
+  height: 20px;
+}
+
+.cart-div {
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+}
+
+.header__logo-text {
+  margin: 0px;
+}
+.hamburger-menu-image {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}

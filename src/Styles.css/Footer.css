@@ -1,0 +1,6 @@
+.footer-div {
+  height: 30vh;
+  width: 100%;
+  background-color: rgb(1, 6, 8, 0.8);
+  border-top: 0.1vh solid rgb(255, 255, 255);
+}

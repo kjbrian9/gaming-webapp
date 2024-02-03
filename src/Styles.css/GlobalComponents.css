@@ -1,0 +1,21 @@
+.buy-button {
+  justify-self: center;
+  font-size: 1rem;
+  font-weight: 700;
+  border-style: none;
+  border-radius: 60px;
+  cursor: pointer;
+  height: 40pt;
+  width: 80pt;
+  transition: background-color 0.25s;
+  margin-top: 1vh;
+  transition: transform 0.5s;
+}
+
+.buy-button:hover {
+  background-color: rgb(142, 142, 142);
+}
+
+.buy-button:active {
+  transform: translateY(-0.5vh);
+}

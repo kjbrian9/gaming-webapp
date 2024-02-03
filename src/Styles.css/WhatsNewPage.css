@@ -1,0 +1,135 @@
+.whats-new-page-content {
+  min-height: 100vh;
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.whats-new-page-div {
+  margin-top: 20vh;
+  width: 100%;
+}
+.whats-new-page-video1,
+.whats-new-page-video2,
+.whats-new-page-video3,
+.whats-new-page-video4,
+.whats-new-page-video5 {
+  width: 19%;
+}
+
+.whats-new-page-videos-div {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: space-between;
+  height: 60vh;
+  overflow: hidden;
+}
+
+.whats-new-page__title {
+  position: absolute;
+  font-size: 2.5rem;
+  background-color: rgb(1, 6, 8, 0.9);
+  width: 40%;
+  color: white;
+  border: none;
+  padding: 5vh 10vh 5vh 10vh;
+  text-align: center;
+  font-family: "Covered By Your Grace", cursive;
+  border-radius: 35px;
+  transition: box-shadow 0.3s, margin-top 1s ease-in-out;
+  cursor: pointer;
+  -webkit-text-fill-color: white;
+}
+
+.whats-new-page__title:active {
+  box-shadow: 10px 5px 5px rgb(1, 6, 8, 0.9);
+}
+
+.whats-new-page__title:hover {
+  margin-top: 1%;
+}
+
+.whats-new-page__videos-text-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.new-product-page-image {
+  width: 1000px;
+  height: 750px;
+  opacity: 0;
+  animation: new-product-image-fade-in 4s 1 forwards;
+}
+
+.new-product-page-background-image-div {
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  margin-bottom: 10vh;
+  position: relative;
+}
+
+@keyframes new-product-image-fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.whats-new-page-div2 {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10vh;
+}
+
+.new-product-title {
+  font-size: 2.5rem;
+  font-family: "Covered By Your Grace", cursive;
+}
+@media screen and (max-width: 740px) {
+  .new-product-title {
+    font-size: 2rem;
+    width: 80%;
+  }
+  .new-product-title {
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+  }
+
+  .whats-new-page-video1,
+  .whats-new-page-video2,
+  .whats-new-page-video3 {
+    display: none;
+  }
+  .whats-new-page-video4,
+  .whats-new-page-video5 {
+    width: 50%;
+  }
+
+  .whats-new-page__title {
+    position: absolute;
+    font-size: 1.5rem;
+    background-color: rgb(1, 6, 8, 0.9);
+    width: 40%;
+    color: white;
+    border: none;
+    padding: 5vh 10vh 5vh 10vh;
+    font-family: "Covered By Your Grace", cursive;
+    border-radius: 35px;
+    transition: box-shadow 0.3s, margin-top 1s ease-in-out;
+    cursor: pointer;
+    -webkit-text-fill-color: white;
+  }
+}
